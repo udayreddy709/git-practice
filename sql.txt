@@ -1,0 +1,4 @@
+select ename
+from emp
+where length(ename)>=5
+/
